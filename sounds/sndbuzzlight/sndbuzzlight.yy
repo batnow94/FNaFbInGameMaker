@@ -12,8 +12,8 @@
   "conversionMode": 0,
   "duration": 0.0,
   "parent": {
-    "name": "SE",
-    "path": "folders/Sounds/SE.yy",
+    "name": "se",
+    "path": "folders/audio/se.yy",
   },
   "preload": true,
   "sampleRate": 44100,

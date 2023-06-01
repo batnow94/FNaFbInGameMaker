@@ -6,6 +6,6 @@
   "isDnD": false,
   "parent": {
     "name": "view",
-    "path": "folders/Scripts/compatibility/view.yy",
+    "path": "folders/data/scripts/compatibility/view.yy",
   },
 }

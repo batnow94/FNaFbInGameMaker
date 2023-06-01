@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Overlays",
-    "path": "folders/Sprites/tilesets/Overlays.yy",
+    "name": "system",
+    "path": "folders/img/system.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

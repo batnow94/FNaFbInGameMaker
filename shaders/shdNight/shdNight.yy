@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "shdNight",
   "parent": {
-    "name": "Shaders",
-    "path": "folders/Shaders.yy",
+    "name": "shaders",
+    "path": "folders/img/shaders.yy",
   },
   "type": 1,
 }

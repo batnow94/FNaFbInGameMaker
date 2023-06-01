@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Tileset",
-    "path": "folders/Sprites/tilesets/Tileset.yy",
+    "name": "system",
+    "path": "folders/img/system.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

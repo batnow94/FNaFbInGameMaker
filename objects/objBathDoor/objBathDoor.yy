@@ -10,7 +10,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "In-Game",
-    "path": "folders/Objects/In-Game.yy",
+    "path": "folders/data/objects/In-Game.yy",
   },
   "parentObjectId": null,
   "persistent": false,

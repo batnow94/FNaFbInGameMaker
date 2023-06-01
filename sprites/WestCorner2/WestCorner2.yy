@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Battlebgs",
-    "path": "folders/Sprites/tilesets/Battlebgs.yy",
+    "name": "battlebacks",
+    "path": "folders/img/battlebacks.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

@@ -12,8 +12,8 @@
   "conversionMode": 0,
   "duration": 0.0,
   "parent": {
-    "name": "BGM",
-    "path": "folders/Sounds/BGM.yy",
+    "name": "bgm",
+    "path": "folders/audio/bgm.yy",
   },
   "preload": true,
   "sampleRate": 44100,

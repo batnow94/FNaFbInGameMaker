@@ -12,8 +12,8 @@
   "out_tilehborder": 2,
   "out_tilevborder": 2,
   "parent": {
-    "name": "Tileset",
-    "path": "folders/Tile Sets/Tileset.yy",
+    "name": "system",
+    "path": "folders/img/system.yy",
   },
   "spriteId": {
     "name": "tileGame",
