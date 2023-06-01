@@ -1,0 +1,2 @@
+global.ask=0;
+

@@ -1,0 +1,424 @@
+Converting GML script: MACRO: build
+Converted string - line 1: '-alpha2' -> "-alpha2"
+
+Converting GML script: ${project_dir}\scripts\dialouge\dialouge.gml
+Converted description /// @description dialouge(text,yn,optioncount,option1,option2,...);/// @param text
+/// @param yn
+/// @param optioncount
+/// @param option1
+/// @param option2
+/// @param ...
+
+Converting GML script: ${project_dir}\scripts\animatePlayer\animatePlayer.gml
+Converted description /// @description animatePlayer(udlri,speed);/// @param udlri
+/// @param speed
+
+Converting GML script: ${project_dir}\scripts\hms\hms.gml
+Converted description /// @description hms(h,m,s);/// @param h
+/// @param m
+/// @param s
+Converted string - line 17: ':' -> ":"
+Converted string - line 17: ':' -> ":"
+
+Converting GML script: ${project_dir}\scripts\saveGame\saveGame.gml
+Converted description /// @description saveGame(file);/// @param file
+
+Converting GML script: ${project_dir}\scripts\loadGame\loadGame.gml
+Converted description /// @description loadGame(file);/// @param file
+
+Converting GML script: ${project_dir}\scripts\touchctrl\touchctrl.gml
+Converted description /// @description touchctrl(destroy[,conditionalkeep]);/// @param destroy[
+/// @param conditionalkeep]
+
+Converting GML script: ${project_dir}\scripts\draw_text_rtf\draw_text_rtf.gml
+Converted description /// @description draw_text_rtf(x, y, string, regular_font, bold_font, italic_font, bold_italic_font)/// @param x
+/// @param  y
+/// @param  string
+/// @param  regular_font
+/// @param  bold_font
+/// @param  italic_font
+/// @param  bold_italic_font
+
+Converting GML script: ${project_dir}\scripts\hextodec\hextodec.gml
+Converted description /// @description hextodec(hex);/// @param hex
+
+Converting GML script: ${project_dir}\scripts\bbcode_decode\bbcode_decode.gml
+Converted description /// @description bbcode_decode(bbcode, formatting ds_list, colour ds_list)/// @param bbcode
+/// @param  formatting ds_list
+/// @param  colour ds_list
+
+Converting GML script: ${project_dir}\scripts\bbcode_print\bbcode_print.gml
+Converted description /// @description bbcode_print(x, y, string, ds_formatting, ds_colour, regular_font, bold_font, italic_font, bold_italic_font)/// @param x
+/// @param  y
+/// @param  string
+/// @param  ds_formatting
+/// @param  ds_colour
+/// @param  regular_font
+/// @param  bold_font
+/// @param  italic_font
+/// @param  bold_italic_font
+
+Font fntMain has been converted to font family Courier New (Bold)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fntMain\fntMain.gms1.png
+Font texture has been regenerated - inconsistencies may occur
+Font fntMid has been converted to font family Courier New (Bold)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fntMid\fntMid.gms1.png
+Font texture has been regenerated - inconsistencies may occur
+Font fntMainReg has been converted to font family Courier New (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fntMainReg\fntMainReg.gms1.png
+Font texture has been regenerated - inconsistencies may occur
+Font fntMainItalic has been converted to font family Courier New (Italic)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fntMainItalic\fntMainItalic.gms1.png
+Font texture has been regenerated - inconsistencies may occur
+Font fntMainBoldItalic has been converted to font family Courier New (Bold Italic)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fntMainBoldItalic\fntMainBoldItalic.gms1.png
+Font texture has been regenerated - inconsistencies may occur
+Font fntHeader has been converted to font family Courier New (Bold)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fntHeader\fntHeader.gms1.png
+Font texture has been regenerated - inconsistencies may occur
+Converting GML script: ${project_dir}\objects\ctrlMaster\Alarm_0.gml
+Converted builtin - line 5: view_wview[0] = 544 -> __view_set( e__VW.WView, 0, 544 )
+Converted builtin - line 6: view_hview[0] = 416 -> __view_set( e__VW.HView, 0, 416 )
+Converted builtin - line 7: view_wport[0] = 544 -> __view_set( e__VW.WPort, 0, 544 )
+Converted builtin - line 8: view_hport[0] = 416 -> __view_set( e__VW.HPort, 0, 416 )
+Converted description /// @description Center the window in screen if nessecary
+
+Converting GML script: ${project_dir}\objects\ctrlMaster\Step_0.gml
+Converted description /// @description Respond to dialouge change
+
+Converting GML script: ${project_dir}\objects\ctrlMaster\Other_4.gml
+Converted builtin - line 2: view_wview[0] = 544 -> __view_set( e__VW.WView, 0, 544 )
+Converted builtin - line 3: view_hview[0] = 416 -> __view_set( e__VW.HView, 0, 416 )
+Converted builtin - line 4: view_wport[0] = 544 -> __view_set( e__VW.WPort, 0, 544 )
+Converted builtin - line 5: view_hport[0] = 416 -> __view_set( e__VW.HPort, 0, 416 )
+Converted description /// @description [EXPERIMENTAL] Disable surfaces aspect ratio workaround
+
+Converting GML script: ${project_dir}\objects\ctrlMaster\Other_2.gml
+Converted description /// @description Initialize globalvars and load settings
+
+Converting GML script: ${project_dir}\objects\ctrlMaster\Draw_74.gml
+Converted description /// @description Draw application_surface with shaders
+
+Converting GML script: ${project_dir}\objects\ctrlMaster\Draw_0.gml
+Converted description /// @description Draw logo and go to rminit
+
+Converting GML script: ${project_dir}\objects\objDialouge\Create_0.gml
+Converted description /// @description Init
+
+Converting GML script: ${project_dir}\objects\objDialouge\Alarm_0.gml
+Converted description /// @description Init based on settings from dialouge()
+
+Converting GML script: ${project_dir}\objects\objDialouge\Draw_64.gml
+Converted description /// @description Draw dialouge
+
+Converting GML script: ${project_dir}\objects\ctrlIntro\Create_0.gml
+Converted description /// @description Init
+
+Converting GML script: ${project_dir}\objects\ctrlIntro\Step_0.gml
+Converted description /// @description Mouse controls
+
+Converting GML script: ${project_dir}\objects\ctrlIntro\Draw_0.gml
+Converted description /// @description Draw menu
+
+Converting GML script: ${project_dir}\objects\ctrlIntro\KeyPress_13.gml
+Converted description /// @description Do a thing
+
+Converting GML script: ${project_dir}\objects\ctrlDev\Create_0.gml
+Converted description /// @description Init
+
+Converting GML script: ${project_dir}\objects\ctrlDev\Step_0.gml
+Converted description /// @description Handle input
+
+Converting GML script: ${project_dir}\objects\ctrlDev\Other_62.gml
+Converted description /// @description Retreive news
+
+Converting GML script: ${project_dir}\objects\ctrlDev\Draw_0.gml
+Converted description /// @description Draw dev info
+
+Converting GML script: ${project_dir}\objects\ctrlLoadGame\Create_0.gml
+Converted description /// @description Init
+
+Converting GML script: ${project_dir}\objects\ctrlLoadGame\Step_0.gml
+Converted description /// @description Transition into page
+
+Converting GML script: ${project_dir}\objects\ctrlLoadGame\Draw_0.gml
+Converted description /// @description Draw menu
+
+Converting GML script: ${project_dir}\objects\ctrlLoadGame\KeyPress_13.gml
+Converted description /// @description Load the game
+
+Converting GML script: ${project_dir}\objects\ctrlSaveGame\Create_0.gml
+Converted description /// @description Init
+
+Converting GML script: ${project_dir}\objects\ctrlSaveGame\Step_0.gml
+Converted description /// @description Transition into page
+
+Converting GML script: ${project_dir}\objects\ctrlSaveGame\Draw_0.gml
+Converted description /// @description Draw menu
+
+Converting GML script: ${project_dir}\objects\ctrlSaveGame\KeyPress_13.gml
+Converted description /// @description Do a thing
+
+Converting GML script: ${project_dir}\objects\ctrlNewGame\Create_0.gml
+Converted description /// @description Init
+
+Converting GML script: ${project_dir}\objects\ctrlNewGame\Step_0.gml
+Converted description /// @description Setup game with dialouges
+
+Converting GML script: ${project_dir}\objects\ctrlNewGame\Draw_0.gml
+Converted description /// @description Draw nothing
+
+Converting GML script: ${project_dir}\objects\ctrlSettings\Create_0.gml
+Converted description /// @description Init
+
+Converting GML script: ${project_dir}\objects\ctrlSettings\Step_0.gml
+Converted description /// @description Transition into room and handle user input
+
+Converting GML script: ${project_dir}\objects\ctrlSettings\Draw_0.gml
+Converted description /// @description Draw menu
+
+Converting GML script: ${project_dir}\objects\ctrlSettings\KeyPress_13.gml
+Converted description /// @description Apply/change settings
+
+Converting GML script: ${project_dir}\objects\ctrlTouch\Destroy_0.gml
+Converted description /// @description Destroy vitual keys
+
+Converting GML script: ${project_dir}\objects\ctrlTouch\Alarm_0.gml
+Converted description /// @description Create virtual keys
+
+Converting GML script: ${project_dir}\objects\ctrlTouch\Other_4.gml
+Converted description /// @description Create virtual keys
+
+Converting GML script: ${project_dir}\objects\ctrlGame\Create_0.gml
+Converted description /// @description Load Game and Go to appropriate room
+
+Converting GML script: ${project_dir}\objects\ctrlGame\Destroy_0.gml
+Converted description /// @description End Game and Clean up
+
+Converting GML script: ${project_dir}\objects\ctrlGame\Alarm_2.gml
+Converted description /// @description Recreate touch controls
+
+Converting GML script: ${project_dir}\objects\ctrlGame\Alarm_1.gml
+Converted description /// @description Increment gametime
+
+Converting GML script: ${project_dir}\objects\ctrlGame\Alarm_0.gml
+Converted description /// @description Save a backup of the game in case it crashes
+
+Converting GML script: ${project_dir}\objects\ctrlGame\Step_0.gml
+Converted description /// @description Transition and pause the game
+
+Converting GML script: ${project_dir}\objects\ctrlGame\Draw_64.gml
+Converted description /// @description Draw game gui
+
+Converting GML script: ${project_dir}\objects\ctrlGame\Draw_0.gml
+Converted description /// @description Draw game elements
+
+Converting GML script: ${project_dir}\objects\ctrlPause\Create_0.gml
+Converted description /// @description Init
+
+Converting GML script: ${project_dir}\objects\ctrlPause\Destroy_0.gml
+Converted description /// @description Resume game
+
+Converting GML script: ${project_dir}\objects\ctrlPause\Step_0.gml
+Converted description /// @description Mouse controls
+
+Converting GML script: ${project_dir}\objects\ctrlPause\Draw_0.gml
+Converted description /// @description Draw menu
+
+Converting GML script: ${project_dir}\objects\ctrlPause\KeyPress_13.gml
+Converted description /// @description Do a thing
+
+Converting GML script: ${project_dir}\objects\ctrlBattle\Create_0.gml
+Converted description /// @description Create a battle and add players
+
+Converting GML script: ${project_dir}\objects\ctrlBattle\Alarm_0.gml
+Converted description /// @description Setup to be done after creator has set variables
+
+Converting GML script: ${project_dir}\objects\ctrlBattle\Step_0.gml
+Converted description /// @description Mouse controls
+
+Converting GML script: ${project_dir}\objects\ctrlBattle\Draw_0.gml
+Converted description /// @description Draw menu
+
+Converting GML script: ${project_dir}\objects\ctrlBattle\KeyPress_13.gml
+Converted description /// @description Battle mechanics
+
+Converting GML script: ${project_dir}\objects\objBathDoor\Alarm_0.gml
+Converted description /// @description Restore Freddy
+
+Converting GML script: ${project_dir}\objects\objFreddy\Create_0.gml
+Converted description /// @description Init
+Converted string - line 111: 'freddy' -> "freddy"
+Converted string - line 112: 'bonnie' -> "bonnie"
+Converted string - line 113: 'chica' -> "chica"
+Converted string - line 114: 'foxy' -> "foxy"
+Converted string - line 115: 'bb' -> "bb"
+Converted string - line 116: 'bonnie' -> "bonnie"
+Converted string - line 117: 'gfreddy' -> "gfreddy"
+Converted string - line 118: 'toybonnie' -> "toybonnie"
+Converted string - line 119: 'toyfreddy' -> "toyfreddy"
+Converted string - line 120: 'toychica' -> "toychica"
+Converted string - line 121: 'mangle' -> "mangle"
+
+Converting GML script: ${project_dir}\objects\objFreddy\Destroy_0.gml
+Converted description /// @description Clean up
+
+Converting GML script: ${project_dir}\objects\objFreddy\Alarm_0.gml
+Converted description /// @description Check to see if the dialogue is gone.
+
+Converting GML script: ${project_dir}\objects\objFreddy\Step_0.gml
+Converted description /// @description Player Controls
+Converted string - line 150: 'freddy' -> "freddy"
+Converted string - line 153: 'bonnie' -> "bonnie"
+Converted string - line 156: 'foxy' -> "foxy"
+Converted string - line 159: 'mangle' -> "mangle"
+
+Converting GML script: ${project_dir}\objects\objFreddy\KeyPress_13.gml
+Converted description /// @description Ridiculous talking script
+
+Missing audiogroup for sound: 'bgmambience2' - setting to default audio group
+Missing audiogroup for sound: 'bgmCamshort' - setting to default audio group
+Missing audiogroup for sound: 'bgmFFV' - setting to default audio group
+Missing audiogroup for sound: 'bgmFreddy' - setting to default audio group
+Missing audiogroup for sound: 'bgmFNAFtitle' - setting to default audio group
+Missing audiogroup for sound: 'bgmHitemUp' - setting to default audio group
+Missing audiogroup for sound: 'bgmLastDance' - setting to default audio group
+Missing audiogroup for sound: 'bgmOFFOST4' - setting to default audio group
+Missing audiogroup for sound: 'bgmPersona4OSTFaceMyself' - setting to default audio group
+Missing audiogroup for sound: 'bgmTheLastBattle' - setting to default audio group
+Missing audiogroup for sound: 'bgm181' - setting to default audio group
+Missing audiogroup for sound: 'bgmWontSleep' - setting to default audio group
+Missing audiogroup for sound: 'bgmJudasPreist' - setting to default audio group
+Missing audiogroup for sound: 'bgsFoxySing' - setting to default audio group
+Missing audiogroup for sound: 'bgsOfficeFan' - setting to default audio group
+Missing audiogroup for sound: 'bgsMangle' - setting to default audio group
+Missing audiogroup for sound: 'bgsMinigame' - setting to default audio group
+Missing audiogroup for sound: 'bgsShortStatic' - setting to default audio group
+Missing audiogroup for sound: 'bgsStatic' - setting to default audio group
+Missing audiogroup for sound: 'bgsJackintheBox' - setting to default audio group
+Missing audiogroup for sound: 'bgsMusicBox' - setting to default audio group
+Missing audiogroup for sound: 'bgsCheer' - setting to default audio group
+Missing audiogroup for sound: 'bgsLose' - setting to default audio group
+Missing audiogroup for sound: 'sndpappet' - setting to default audio group
+Missing audiogroup for sound: 'sndhonk' - setting to default audio group
+Missing audiogroup for sound: 'sndpop' - setting to default audio group
+Missing audiogroup for sound: 'sndpopstatic' - setting to default audio group
+Missing audiogroup for sound: 'sndpwron' - setting to default audio group
+Missing audiogroup for sound: 'sndrobot' - setting to default audio group
+Missing audiogroup for sound: 'snddoorclose' - setting to default audio group
+Missing audiogroup for sound: 'sndstatic2' - setting to default audio group
+Missing audiogroup for sound: 'sndstaticend2' - setting to default audio group
+Missing audiogroup for sound: 'sndcasseteclick' - setting to default audio group
+Missing audiogroup for sound: 'sndcasseteclick2' - setting to default audio group
+Missing audiogroup for sound: 'sndChica1' - setting to default audio group
+Missing audiogroup for sound: 'sndwalk1' - setting to default audio group
+Missing audiogroup for sound: 'sndwalk2' - setting to default audio group
+Missing audiogroup for sound: 'sndwalk3' - setting to default audio group
+Missing audiogroup for sound: 'sndwalk4' - setting to default audio group
+Missing audiogroup for sound: 'sndwalk5' - setting to default audio group
+Missing audiogroup for sound: 'sndwindup2' - setting to default audio group
+Missing audiogroup for sound: 'sndWith_S2' - setting to default audio group
+Missing audiogroup for sound: 'sndXSCREAM' - setting to default audio group
+Missing audiogroup for sound: 'sndXscream2' - setting to default audio group
+Missing audiogroup for sound: 'sndXscream3' - setting to default audio group
+Missing audiogroup for sound: 'sndblip3' - setting to default audio group
+Missing audiogroup for sound: 'sndbonnie1' - setting to default audio group
+Missing audiogroup for sound: 'sndbonnie2' - setting to default audio group
+Missing audiogroup for sound: 'sndbonnie3' - setting to default audio group
+Missing audiogroup for sound: 'sndbonnie4' - setting to default audio group
+Missing audiogroup for sound: 'sndbuzzlight' - setting to default audio group
+Missing audiogroup for sound: 'sndcake2' - setting to default audio group
+Missing audiogroup for sound: 'sndClocksChimes' - setting to default audio group
+Missing audiogroup for sound: 'sndCMPTR_Low_Tech_Stat' - setting to default audio group
+Missing audiogroup for sound: 'sndcoin' - setting to default audio group
+Missing audiogroup for sound: 'sndCOMPUTER_DIGITAL_L2076605' - setting to default audio group
+Missing audiogroup for sound: 'sndComputerInteriorLong_EVL02_14' - setting to default audio group
+Missing audiogroup for sound: 'snddeepbreaths' - setting to default audio group
+Missing audiogroup for sound: 'sndecho1' - setting to default audio group
+Missing audiogroup for sound: 'sndecho3b' - setting to default audio group
+Missing audiogroup for sound: 'sndecho4b' - setting to default audio group
+Missing audiogroup for sound: 'sndeffect3' - setting to default audio group
+Missing audiogroup for sound: 'sndelecgarble' - setting to default audio group
+Missing audiogroup for sound: 'sndend1' - setting to default audio group
+Missing audiogroup for sound: 'sndend2' - setting to default audio group
+Missing audiogroup for sound: 'snderror' - setting to default audio group
+Missing audiogroup for sound: 'sndfansound' - setting to default audio group
+Missing audiogroup for sound: 'sndequip' - setting to default audio group
+Missing audiogroup for sound: 'sndunequip' - setting to default audio group
+Missing audiogroup for sound: 'sndscream' - setting to default audio group
+Missing audiogroup for sound: 'sndanimatronicatdoor' - setting to default audio group
+Missing audiogroup for sound: 'sndfoxyrun' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddylaugh' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddylaugh2' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddylaugh3' - setting to default audio group
+Missing audiogroup for sound: 'sndgoldenfreddylaugh' - setting to default audio group
+Missing audiogroup for sound: 'sndphoneguy' - setting to default audio group
+Missing audiogroup for sound: 'sndpowergone' - setting to default audio group
+Missing audiogroup for sound: 'sndfoxy1' - setting to default audio group
+Missing audiogroup for sound: 'sndfoxy2' - setting to default audio group
+Missing audiogroup for sound: 'sndfoxy3' - setting to default audio group
+Missing audiogroup for sound: 'sndfoxy4' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy1' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy2' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy3' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy4' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy5' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy6' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy7' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy8' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy9' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy10' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy11' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy12' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy13' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy14' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy15' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy16' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy17' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy18' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy19' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy20' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy21' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy22' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy23' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy24' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy25' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy26' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy27' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy28' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy29' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy31' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy32' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy33' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy34' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy35' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy36' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy37' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy38' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy39' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy40' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy41' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy42' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy43' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy44' - setting to default audio group
+Missing audiogroup for sound: 'sndfreddy45' - setting to default audio group
+Missing audiogroup for sound: 'sndgolden1' - setting to default audio group
+Missing audiogroup for sound: 'sndjoin' - setting to default audio group
+Missing audiogroup for sound: 'sndmangle1' - setting to default audio group
+Missing audiogroup for sound: 'sndMarch' - setting to default audio group
+Missing audiogroup for sound: 'sndmetalrun' - setting to default audio group
+Missing audiogroup for sound: 'sndmetalwalk1' - setting to default audio group
+Missing audiogroup for sound: 'sndmetalwalk2' - setting to default audio group
+Missing audiogroup for sound: 'sndmetalwalk3' - setting to default audio group
+Game speed set to 60
+Added compatibility script 'background/draw_background.gml'
+Added compatibility script 'background/draw_background_tiled.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'view/__view_set.gml'
+Added compatibility script 'view/__view_set_internal.gml'
+Added compatibility script 'background/__init_background.gml'
+Added compatibility script 'view/__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script 'view/__view_get.gml'
+Added compatibility script '__global_object_depths.gml'

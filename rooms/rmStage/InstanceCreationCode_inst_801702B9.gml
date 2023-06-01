@@ -1,0 +1,15 @@
+saydelay=0;
+say="8";
+sayl[0]="7";
+sayl[1]="7";
+sayl[2]="7";
+sayl[3]="7";
+sayl[4]="7";
+sayl[5]="7";
+sayl[6]="7";
+sayl[7]="7";
+sayl[8]="7";
+sayl[9]="7";
+sayl[10]="7";
+sayl[11]="7";
+sayl[12]="9";
