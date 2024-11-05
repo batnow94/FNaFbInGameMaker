@@ -1,10 +1,12 @@
 {
-  "resourceType": "GMShader",
-  "resourceVersion": "1.0",
-  "name": "shdMosaic",
-  "parent": {
-    "name": "shaders",
-    "path": "folders/img/shaders.yy",
+  "$GMShader":"",
+  "%Name":"shdMosaic",
+  "name":"shdMosaic",
+  "parent":{
+    "name":"shaders",
+    "path":"folders/img/shaders.yy",
   },
-  "type": 1,
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
 }

@@ -1,10 +1,12 @@
 {
-  "resourceType": "GMShader",
-  "resourceVersion": "1.0",
-  "name": "shdNight",
-  "parent": {
-    "name": "shaders",
-    "path": "folders/img/shaders.yy",
+  "$GMShader":"",
+  "%Name":"shdNight",
+  "name":"shdNight",
+  "parent":{
+    "name":"shaders",
+    "path":"folders/img/shaders.yy",
   },
-  "type": 1,
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
 }

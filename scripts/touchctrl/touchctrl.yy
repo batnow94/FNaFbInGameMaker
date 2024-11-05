@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "touchctrl",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "scripts",
-    "path": "folders/data/scripts.yy",
+  "$GMScript":"v1",
+  "%Name":"touchctrl",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"touchctrl",
+  "parent":{
+    "name":"scripts",
+    "path":"folders/data/scripts.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }
